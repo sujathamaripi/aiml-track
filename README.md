@@ -82,8 +82,8 @@ OptiCrop/
            ⚙ System Workflow
 
 User Input
-      │
-      ▼
+      |
+      
 Flask Web Application
       │
       ▼
